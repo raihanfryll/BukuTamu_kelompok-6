@@ -87,7 +87,7 @@ Website sederhana untuk mencatat tamu yang berkunjung, dibangun menggunakan Lara
 ---
 
 
-## 👥 Kelompok 6 - Pemrograman Web Lanjut
+## 👥 Kelompok 6 - Praktikum PPL
 
 | Nama                    | NIM           |
 | ----------------------- | ------------- |
