@@ -93,7 +93,7 @@ Website sederhana untuk mencatat tamu yang berkunjung, dibangun menggunakan Lara
 | ----------------------- | ------------- |
 | Raihan Firyal           | 2208107010084 |
 | Berliani Utami          | 2208107010082 |
-| Riska Haqika Situmorang | 2208107010084 |
+| Riska Haqika Situmorang | 2208107010086 |
 
 ---
 
