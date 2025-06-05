@@ -1,5 +1,10 @@
 # 📘 Buku Tamu Digital - Laravel 11
 
+![Laravel Version](https://img.shields.io/badge/Laravel-11-red)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+
 Website sederhana untuk mencatat tamu yang berkunjung, dibangun menggunakan Laravel 11 dan Tailwind CSS. Pengunjung dapat mengisi nama, email, dan pesan mereka melalui form yang menarik, dan data akan tersimpan secara otomatis ke dalam database.
 
 ---
@@ -96,4 +101,9 @@ Website sederhana untuk mencatat tamu yang berkunjung, dibangun menggunakan Lara
 | Riska Haqika Situmorang | 2208107010086 |
 
 ---
+
+## 📄 Lisensi
+
+Proyek ini menggunakan lisensi **MIT**. Bebas digunakan dan dimodifikasi dengan mencantumkan kredit kepada pembuat asli.
+
 
