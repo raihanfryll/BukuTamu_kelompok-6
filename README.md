@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 
-Website sederhana untuk mencatat tamu yang berkunjung, dibangun menggunakan Laravel 11 dan Tailwind CSS. Pengunjung dapat mengisi nama, email, dan pesan mereka melalui form yang menarik, dan data akan tersimpan secara otomatis ke dalam database.
+Website ini adalah aplikasi pencatatan tamu berbasis Laravel 11 dan Tailwind CSS. Pengunjung dapat mengisi formulir berisi nama, email, dan pesan dengan tampilan yang menarik dan responsif. Data yang diinput akan otomatis disimpan ke dalam database menggunakan Laravel, memudahkan pencatatan dan pengelolaan tamu secara digital. Aplikasi ini cocok digunakan di kantor, sekolah, atau organisasi untuk menggantikan buku tamu manual.
 
 ---
 
